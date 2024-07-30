@@ -23,7 +23,7 @@ Follow these steps to set up and run the RealTimeTracking-Device application on 
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/yourusername/RealTimeTracking-Device.git
+    git clone https://github.com/vishu-verma1/RealTimeTracking-Device.git
     ```
 
 2. **Navigate to the Project Directory:**
@@ -62,8 +62,7 @@ To start the server and begin real-time tracking:
 
 - **public/**: Contains static files such as HTML, CSS, and JavaScript.
 - **views/**: Contains EJS templates.
-- **routes/**: Contains route definitions.
-- **server.js**: Main entry point of the application.
+- **app.js**: Main entry point of the application.
 - **package.json**: Contains project metadata and dependencies.
 
 ## Contributing
@@ -77,7 +76,7 @@ Contributions are always welcome! Please follow these steps to contribute:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
